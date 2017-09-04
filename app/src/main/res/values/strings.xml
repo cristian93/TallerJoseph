@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="app_name2">BottomNavigation</string>
+    <string name="str_item_1">Recents</string>
+    <string name="str_item_2">Favorites</string>
+    <string name="str_item_3">Nearby</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment3"> TAller2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Quiz</string>
+</resources>
